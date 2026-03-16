@@ -14,3 +14,8 @@ license={text="MIT"}
 
 [tool.setuptools.packages.find]
 include=["yournotify*"]
+
+[project.urls]
+Homepage = "https://github.com/yournotify/yournotify-python"
+Repository = "https://github.com/yournotify/yournotify-python"
+Issues = "https://github.com/yournotify/yournotify-python/issues"
